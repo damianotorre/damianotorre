@@ -14,8 +14,8 @@ role: Research Associate
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: Interdisciplinary Centre for Security, Reliability and Trust Postal (SnT)
+  url: "https://wwwen.uni.lu/snt/people/damiano_torre"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
