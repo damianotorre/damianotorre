@@ -3,14 +3,14 @@
 title: Damiano Torre
 
 # Username (this should match the folder name)
-authors:
+authors:damianotorre
 - admin
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Research Associate
 
 # Organizations/Affiliations
 organizations:
