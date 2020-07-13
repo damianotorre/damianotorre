@@ -14,7 +14,7 @@ role: Research Associate
 
 # Organizations/Affiliations
 organizations:
-- name: Interdisciplinary Centre for Security, Reliability and Trust (SnT)
+- name: Interdisciplinary Centre for Security, Reliability and Trust, University of Luxembourg
   url: "https://wwwen.uni.lu/snt/people/damiano_torre"
 
 # Short bio (displayed in user profile at end of posts)
@@ -45,7 +45,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: '#contact'  # For a direct email link, use "mailto:damianotorre@gmail.com".
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/dacotorre
@@ -62,7 +62,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "damiano.torre@uni.lu"
+email: "damianotorre@gmail.com"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
