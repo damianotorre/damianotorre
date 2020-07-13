@@ -22,21 +22,21 @@ bio: My research interests include distributed robotics, mobile computing and pr
 
 interests:
 - Software Engineering
-- Model Driven Software Engineering
+- Model Driven Engineering
 - Empirical Software Engineering
 - Compliance
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
+  - course: PhD in Computer Engineering
+    institution: Carleton University (Canada)
+    year: 2018
+  - course: MSc in Informatics
+    institution: University of Castilla-La Mancha (Spain)
+    year: 2011
+  - course: BSc in Computer Science
+    institution: University of Bari (Italy)
     year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
