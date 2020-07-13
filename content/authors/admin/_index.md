@@ -3,7 +3,7 @@
 title: Damiano Torre
 
 # Username (this should match the folder name)
-authors:damianotorre
+authors:
 - admin
 
 # Is this the primary user of the site?
