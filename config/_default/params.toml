@@ -93,7 +93,7 @@ phone = "(+352) 46 66 44 5317"
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "29 Avenue John F. Kennedy", city = "University of Luxembourg", region = "Kirchberg Campus", postcode = "L-1855", country = "Luxembourg", country_code = "LU"}
+address = {street = "29 Avenue John F. Kennedy -- Kirchberg Campus", city = "University of Luxembourg", region = "Luxembourg", postcode = "L-1855", country = "Luxembourg", country_code = "LU"}
 
 
 # Geographic coordinates
