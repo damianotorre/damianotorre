@@ -19,12 +19,12 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  organization = ""
+  organization = "Complete list publications"
   organization_url = ""
   title = ""
   url = ""
   certificate_url = ""
-  date_start = ""
+  date_start = "2020"
   date_end = ""
   description = "A list of my publications is avaiable at DBLP and Google Scholar. A (partial) list of my publications is also available at Orbilu.lu."
 
