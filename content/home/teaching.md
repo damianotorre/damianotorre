@@ -24,8 +24,8 @@ date_format = "Jan 2006"
   title = "SYSC-4102 Performance Engineering,"
   url = ""
   certificate_url = ""
-  date_start = "2018-10-01"
-  date_end = ""
+  date_start = "2017-01-01"
+  date_end = "2017-04-30"
   description = ""
 
 [[item]]
@@ -34,8 +34,8 @@ date_format = "Jan 2006"
   title = "SYSC-5102 Design of High-Performance Software"
   url = ""
   certificate_url = ""
-  date_start = "2018-03-01"
-  date_end = ""
+  date_start = "2017-01-01"
+  date_end = "2017-04-30"
   description = ""
   
 [[item]]
@@ -44,8 +44,8 @@ date_format = "Jan 2006"
   title = "SYSC-5709 Advanced Topics in Software Engineering: Model Driven Software Engineering in Practice"
   url = ""
   certificate_url = ""
-  date_start = "2017-07-01"
-  date_end = "2017-12-21"
+  date_start = "2017-05-01"
+  date_end = "2017-08-30"
   description = ""
 
 +++
