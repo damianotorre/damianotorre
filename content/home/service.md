@@ -14,7 +14,7 @@ subtitle = ""
 ISSRE (2018, 2019, and 2020), ISSRE Fast Abstract 2020, ICSE Posters 2021, ESEM Emerging results, Vision papers and Poster track (2018, 2019, 2020), ESEM IDoESE Doctoral Symposium 2019, NEXTA 2018, and JISBD 2020.
 
 
-<h3>International Journal Articles Reviewedr</h3>
+<h3>International Journal Articles Reviewed</h3>
 IEEE Software, IEEE Transactions on Industrial Informatics, Journal on Computer Science and Engineering, Information and Software Technology, Software Testing Verification and Reliability, and e-Informatica Software Engineering Journal.
 
 <h3>Student Volunteer</h3>
