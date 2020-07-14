@@ -10,5 +10,11 @@ subtitle = ""
 
 +++
 
-The complete list of my publications is avaiable at <a href="https://dblp.org/pers/t/Torre:Damiano.html" target="_blank">DBLP</a> and <a href="https://scholar.google.es/citations?user=xWAuLT0AAAAJ&hl" target="_blank">Google Scholar</a>.
+The complete list of my publications is avaiable at <a href="https://dblp.org/pers/t/Torre:Damiano.html" target="_blank">DBLP</a> and <a href="https://scholar.google.es/citations?user=xWAuLT0AAAAJ&hl" target="_blank">Google Scholar</a>. As follows, there is a selected set of publications:
+
+<ul>
+  <li>Coffee</li>
+  <li>Tea</li>
+  <li>Milk</li>
+</ul>
 
