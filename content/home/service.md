@@ -23,10 +23,10 @@ e-Informatica Software Engineering Journal.
 
 <h3>Student Volunteer</h3>
 EASE 2012 (Ciudad Real, Spain), MODELS 2015, awarded as “Best Student Volunteer” (Ottawa,
-Canada), ICT4S 2018 (Toronto, Canada).
+Canada), and ICT4S 2018 (Toronto, Canada).
 
 <h3>Other</h3>
 Systems and Computer Engineering Department representative at the Graduate Students
 Associations council at Carleton University (Canada) 2012-2017.
-Board member of the Carleton Food Collective at Carleton University (Canada) 2012-2016.
-IEEE student member from 2016 to 2018. IEEE regular member since 2018 to present.
+<br>Board member of the Carleton Food Collective at Carleton University (Canada) 2012-2016.
+<br>IEEE student member from 2016 to 2018. IEEE regular member since 2018 to present.
