@@ -21,7 +21,7 @@ date_format = "Jan 2006"
 [[item]]
   organization = "Carleton University"
   organization_url = "https://www.carleton.ca"
-  title = "SYSC-4102 Performance Engineering,"
+  title = "SYSC-4102 Performance Engineering"
   url = ""
   certificate_url = ""
   date_start = "2017-01-01"
