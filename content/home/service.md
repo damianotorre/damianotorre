@@ -13,7 +13,7 @@ subtitle = ""
 <h3>Program Committee Member</h3>
 ISSRE (2018, 2019, and 2020), 2), ISSRE Fast Abstract (2020), ICSE Posters (2021), ESEM
 Emerging results, Vision papers and Poster track (2018, 2019, 2020), ESEM IDoESE Doctoral
-Symposium (2019), the 1st IEEE Workshop on NEXt level of Test Automation (NEXTA 2018), and
+Symposium (2019), NEXTA 2018, and
 JISBD (2020).
 
 <h3>International Journal Articles Reviewedr</h3>
