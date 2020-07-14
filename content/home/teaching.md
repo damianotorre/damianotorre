@@ -26,7 +26,7 @@ date_format = "Jan 2006"
   certificate_url = ""
   date_start = "2017-01-01"
   date_end = "2017-04-30"
-  description = ""
+  description = "Co-Instructor"
 
 [[item]]
   organization = "Carleton University"
@@ -36,7 +36,7 @@ date_format = "Jan 2006"
   certificate_url = ""
   date_start = "2017-01-01"
   date_end = "2017-04-30"
-  description = ""
+  description = "Co-Instructor"
   
 [[item]]
   organization = "Carleton University"
@@ -46,6 +46,26 @@ date_format = "Jan 2006"
   certificate_url = ""
   date_start = "2017-05-01"
   date_end = "2017-08-30"
-  description = ""
+  description = "Main Instructor"
+
+[[item]]
+  organization = "Carleton University"
+  organization_url = "https://www.carleton.ca"
+  title = "SYSC-2100 Algorithms and Data Structures"
+  url = ""
+  certificate_url = ""
+  date_start = "2018-05-01"
+  date_end = "2018-08-30"
+  description = "Main Instructor"
+
+[[item]]
+  organization = "Carleton University"
+  organization_url = "https://www.carleton.ca"
+  title = "SYSC-5709 Advanced Topics in Software Engineering: Model Driven Software Engineering in Practice"
+  url = ""
+  certificate_url = ""
+  date_start = "2018-05-01"
+  date_end = "2018-08-30"
+  description = "Main Instructor"
 
 +++
