@@ -57,9 +57,9 @@ social:
   link: https://github.com/damianotorre
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+ - icon: cv
+   icon_pack: ai
+   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "damianotorre@gmail.com"
@@ -71,4 +71,5 @@ user_groups:
 - Visitors
 ---
 
-Damiano Torre received his PhD degree through a joined supervision by Carleton University (Canada) and University of Castilla-La Mancha (Spain), in 2018. His research interests are in Model Driven Engineering, UML Consistency, Empirical Software Engineering, and Green Software. Damiano joined the Software Verification and Validation group, V&V Lab, headed by Prof. Lionel Briand. 
+I am a research associate at the Software Verification and Validation group, headed by Prof. Lionel Briand -- University of Luxembourg. I am involved in two main research projects with two industry partners from the legal and finance domain, Linklaters LLP and Clearstream, respectively. I work on developing industrially applicable automated support for GDPR compliance assessment, and innovative solutions for improving requirements engineering in the financial domain.
+Prior to coming to Luxembourg, I received my M.Sc. from the University of Castilla-La Mancha (Spain) and Ph.D. from Carleton University (Canada) in 2011 and 2018, respectively.
