@@ -26,6 +26,6 @@ date_format = "Jan 2006"
   certificate_url = ""
   date_start = "2020"
   date_end = ""
-  description = "A list of my publications is avaiable at DBLP and Google Scholar. A (partial) list of my publications is also available at Orbilu.lu."
+  description = """A list of my publications is avaiable at DBLP and Google Scholar. A (partial) list of my publications is also available at Orbilu.lu."""
 
 +++
