@@ -19,13 +19,13 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  organization = "Coursera"
-  organization_url = "https://www.coursera.org"
-  title = "Neural Networks and Deep Learning"
+  organization = ""
+  organization_url = ""
+  title = ""
   url = ""
-  certificate_url = "https://www.coursera.org"
-  date_start = "2018-10-01"
+  certificate_url = ""
+  date_start = ""
   date_end = ""
-  description = ""
+  description = "A list of my publications is avaiable at DBLP and Google Scholar. A (partial) list of my publications is also available at Orbilu.lu."
 
 +++
