@@ -10,7 +10,8 @@ subtitle = ""
 
 +++
 
-The complete list of my publications is avaiable at <a href="https://dblp.org/pers/t/Torre:Damiano.html" target="_blank">DBLP</a> and <a href="https://scholar.google.es/citations?user=xWAuLT0AAAAJ&hl" target="_blank">Google Scholar</a>. As follows, there is a selected set of recent publications:
+The complete list of my publications is avaiable at <a href="https://dblp.org/pers/t/Torre:Damiano.html" target="_blank">DBLP</a> and <a href="https://scholar.google.es/citations?user=xWAuLT0AAAAJ&hl" target="_blank">Google Scholar</a>.   
+<br>As follows, there is a selected set of recent publications:
 
 <ol>
   <li>A. Veizaga, M. Alferez, <b>D. Torre</b>, M. Sabetzadeh, L. Briand, E. Pitskhelauri. “Leveraging Natural-language Requirements for Deriving Better Acceptance Criteria from Models” In Proceedings of the 23rd ACM/IEEE International Conference on Model Driven Engineering Languages and Systems (MODELS), 2020.</li>
