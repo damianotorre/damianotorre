@@ -73,5 +73,5 @@ user_groups:
 - Visitors
 ---
 
-I am a research associate at the Software Verification and Validation group, headed by Prof. Lionel Briand -- University of Luxembourg. I am involved in two main research projects with two industry partners from the legal and finance domain, Linklaters LLP and Clearstream, respectively. I work on developing industrially applicable automated support for GDPR compliance assessment, and innovative solutions for improving requirements engineering in the financial domain.
+I am a research associate at the <a href="https://wwwen.uni.lu/snt/research/software_verification_and_validation_lab/">Software Verification and Validation group</a>, headed by Prof. Lionel Briand -- University of Luxembourg. I am involved in two main research projects with two industry partners from the legal and finance domain, Linklaters LLP and Clearstream, respectively. I work on developing industrially applicable automated support for GDPR compliance assessment, and innovative solutions for improving requirements engineering in the financial domain.
 Prior to coming to Luxembourg, I received my M.Sc. from the University of Castilla-La Mancha (Spain) and Ph.D. from Carleton University (Canada) in 2011 and 2018, respectively.
