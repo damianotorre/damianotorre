@@ -10,6 +10,12 @@ subtitle = ""
 
 +++
 
+
+<h3>Organizing Committee</h3>
+Principal Chair organizer of <a href="https://wucor.wordpress.com/" target="_blank">the 1st International Workshop on UML Consistency Rules (WUCOR 2015)</a>.
+<h3>IEEE International Symposium on Software Reliability Engineering (ISSRE): Web Chair (2015), Publicity and Local Arrangements Chair (2016), Doctoral Symposium Co-chair (2017), Publicity Cochair (2018), Fast Abstract Co-chair (2019), and Workshops Co-chair (2020). 
+<br> Part of the local organizing committee at the Empirical Software Engineering International Week (2016).
+
 <h3>Program Committee Member</h3>
 ISSRE (2018, 2019, and 2020), ISSRE Fast Abstract 2020, ICSE Posters 2021, ESEM Emerging results, Vision papers and Poster track (2018, 2019, 2020), ESEM IDoESE Doctoral Symposium 2019, NEXTA 2018, and JISBD 2020.
 
