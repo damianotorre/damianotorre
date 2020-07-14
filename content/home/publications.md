@@ -10,5 +10,5 @@ subtitle = ""
 
 +++
 
-Welcome to the personal demo of Academic. Other demos available include:
+The complete list of my publications is avaiable at <a href="https://dblp.org/pers/t/Torre:Damiano.html" target="_blank">DBLP</a> and <a href="https://scholar.google.es/citations?user=xWAuLT0AAAAJ&hl" target="_blank">Google Scholar</a>.
 
