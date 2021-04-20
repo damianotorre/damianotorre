@@ -21,4 +21,4 @@ ISSRE (2018, 2019, 2020, 2021), ASE Late Breaking Results 2021, ASSS 2021, ICSE 
 
 
 <h3>International Journals</h3>
-IEEE Software, IEEE Transactions on Industrial Informatics, Journal on Computer Science and Engineering, Information and Software Technology, Software Testing Verification and Reliability, and e-Informatica Software Engineering Journal, MDPI Mathematics.
+IEEE Software, IEEE Transactions on Industrial Informatics, Journal on Computer Science and Engineering, Information and Software Technology, Software Testing Verification and Reliability, e-Informatica Software Engineering Journal, and MDPI Mathematics.
