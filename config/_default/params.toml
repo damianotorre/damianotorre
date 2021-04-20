@@ -88,12 +88,11 @@ show_related = {docs = true, page = false, post = true, project = true, publicat
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "damianotorreATgmail.com"
-phone = "(+352) 46 66 44 5317"
+email = "damianotorre (@) gmail.com"
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "29 Avenue John F. Kennedy -- Kirchberg Campus", city = "University of Luxembourg", region = "Luxembourg", postcode = "L-1855", country = "Luxembourg", country_code = "LU"}
+address = {street = "21001 Leadership Place", city = "Texas A&M University Central Texas", region = "Killeen, TX", postcode = "76549", country = "USA", country_code = "LU"}
 
 
 # Geographic coordinates
