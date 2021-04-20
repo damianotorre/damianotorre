@@ -10,21 +10,22 @@ authors:
 superuser: true
 
 # Role/position
-role: Research Associate
+role: Associate Research Scientist
 
 # Organizations/Affiliations
 organizations:
-- name: Interdisciplinary Centre for Security, Reliability and Trust, University of Luxembourg
-  url: "https://wwwen.uni.lu/snt/people/damiano_torre"
+- name: Department of Computer Information Systems, Texas A&M University Central Texas, United States
+  url: "hhttps://www.tamuct.edu/coba/cis.html"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include  Software Engineering, CyberSecurity, Artificial Intelligence, Model Driven Engineering, Empirical Software Engineering.
 
 interests:
 - Software Engineering
 - Model Driven Engineering
 - Empirical Software Engineering
-- Compliance
+- CyberSecurity
+- Artificial Intelligence
 
 education:
   courses:
