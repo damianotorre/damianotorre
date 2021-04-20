@@ -14,8 +14,8 @@ role: Associate Research Scientist
 
 # Organizations/Affiliations
 organizations:
-- name: Department of Computer Information Systems, Texas A&M University Central Texas, United States
-  url: "hhttps://www.tamuct.edu/coba/cis.html"
+- name: Department of Computer Information Systems, Texas A&M University Central Texas
+  url: "https://www.tamuct.edu/coba/cis.html"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include  Software Engineering, CyberSecurity, Artificial Intelligence, Model Driven Engineering, Empirical Software Engineering.
