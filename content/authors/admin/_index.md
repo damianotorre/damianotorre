@@ -22,10 +22,11 @@ bio: My research interests include  Software Engineering, CyberSecurity, Artific
 
 interests:
 - Software Engineering
-- Model Driven Engineering
-- Empirical Software Engineering
 - CyberSecurity
 - Artificial Intelligence
+- Model Driven Engineering
+- Empirical Software Engineering
+
 
 education:
   courses:
@@ -74,5 +75,5 @@ user_groups:
 - Visitors
 ---
 
-I am an associate research scientist in <a href="https://www.tamuct.edu/coba/cis.html" target="_blank">the Department of Computer Information Systems</a>,  <a href="https://www.tamuct.edu/index.html" target="_blank">Texas A&M University Central Texas, United States</a>. My research interests are focused on computer science, and more specifically on software engineering, cybersecurity, artificial intelligence, model-based development, empirical software engineering and legal and regulatory compliance. I am involved in a main research project with U.S. agencies.
+I am an associate research scientist in <a href="https://www.tamuct.edu/coba/cis.html" target="_blank">the Department of Computer Information Systems</a>,  <a href="https://www.tamuct.edu/index.html" target="_blank">Texas A&M University Central Texas, United States</a>. My research interests are focused on computer science, and more specifically on software engineering, cybersecurity, artificial intelligence, model-based development, and empirical software engineering. I am involved in a main project with U.S. agencies whew I conduct applied research in the topics of cybersecurity and artifical intelligence.
 Prior to coming to the United States, I was a research associate at ssociate at <a href="https://wwwen.uni.lu" target="_blank"> the University of Luxembourg</a> from the December 2018 to April 2021. I received my B.Sc. from the <a href="https://www.uniba.it" target="_blank">University of Bari</a> (Italy), M.Sc. from the <a href="https://www.uclm.es" target="_blank">University of Castilla-La Mancha</a> (Spain) and <a href="https://curve.carleton.ca/c01f6172-67fe-476b-90fc-b40ccc78b7ad" target="_blank">Ph.D.</a> from <a href="https://www.carleton.ca" target="_blank">Carleton University</a> (Canada) in 2009, 2011 and 2018, respectively.
